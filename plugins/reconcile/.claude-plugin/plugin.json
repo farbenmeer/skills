@@ -1,0 +1,9 @@
+{
+  "name": "reconcile",
+  "description": "Michel's simplistic solution for spec-driven development",
+  "version": "0.1.0",
+  "author": {
+    "name": "Michel Smola",
+    "email": "michel.smola@farbenmeer.de"
+  }
+}

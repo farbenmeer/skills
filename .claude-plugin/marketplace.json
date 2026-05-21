@@ -1,0 +1,15 @@
+{
+  "name": "farbenmeer",
+  "owner": {
+    "name": "farbenmeer GmbH",
+    "email": "engineering@farbenmeer.de"
+  },
+  "description": "farbenmeer's Claude Code plugin marketplace",
+  "plugins": [
+    {
+      "name": "reconcile",
+      "source": "./plugins/reconcile",
+      "description": "Reconcile plugin"
+    }
+  ]
+}
